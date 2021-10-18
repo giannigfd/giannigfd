@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Giovanni Liguori (@giannigfd) 
+- 👋 Hi, I’m Giovanni Liguori (@giannigfd)  
 - 👀 I’m interested in Climate Variability and Ocean Modelling 
 - 💞️ I’m looking to collaborate on python-based climate data analysis codes
 - 📫 For more information see my website at https://gianni.geosci.monash.edu/
